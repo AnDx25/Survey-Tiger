@@ -1,0 +1,33 @@
+.header {
+    background-color: #d3e28d;
+    color : green;
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(20px + 2vmin);
+    font-style: bold;
+   
+  }
+  .header {
+    background-color: #d3e28d;
+    color : green;
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(20px + 2vmin);
+    font-style: bold;
+    border: solid;
+   
+  }
+  .body
+  {
+    margin-top: 20px;
+    height: 80%;
+    width: 100%;
+  }
